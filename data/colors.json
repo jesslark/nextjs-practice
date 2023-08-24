@@ -1,0 +1,10 @@
+[
+  { "name": "HotPink", "hex": "HotPink" },
+  { "name": "Crimson", "hex": "Crimson" },
+  { "name": "Tomato", "hex": "Tomato" },
+  { "name": "LemonChiffon", "hex": "LemonChiffon" },
+  { "name": "SpringGreen", "hex": "SpringGreen" },
+  { "name": "DeepSkyBlue", "hex": "DeepSkyBlue" },
+  { "name": "DodgerBlue", "hex": "DodgerBlue" },
+  { "name": "RebeccaPurple", "hex": "RebeccaPurple" }
+]

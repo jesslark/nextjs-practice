@@ -1,0 +1,10 @@
+.main {
+  background: black;
+  color: #aaa;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.main a {
+  color: #8c6db0;
+}
