@@ -36,7 +36,9 @@ export default function Home() {
         <ul>
           {colors.map(color => (
             <Link href={`../${color.name}`}>
-              <li style={{ color: color.hex }}>{color.name}</li>
+              <li style={{ color: color.hex }} key={color.hex}>
+                {color.name}
+              </li>
             </Link>
           ))}
         </ul>
